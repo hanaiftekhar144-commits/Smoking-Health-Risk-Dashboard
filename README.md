@@ -1,5 +1,3 @@
-# Smoking-Health-Risk-Dashboard
-Power BI dashboard analyzing smoking impact on health risks
 # Smoking Health Risk Analysis Dashboard
 
 This project is a Power BI dashboard analyzing the impact of smoking on health risks.
